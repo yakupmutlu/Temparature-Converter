@@ -1,0 +1,26 @@
+.handlesearch{
+    font-size: 16px;
+    padding: 20px;
+    background-color: red;
+    color: black;
+   
+}
+.button-container{
+    align-items: center;
+    display: flex;
+  flex-direction: column; 
+  gap: 10px;
+  background-color: antiquewhite;
+}
+.fahrenheit{
+    font-size: 16px;
+    padding: 20px;
+    background-color: red;
+    color: black;
+}
+.kelvin{
+    font-size: 16px;
+    padding: 20px;
+    background-color: red;
+    color: black;
+}
